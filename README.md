@@ -39,4 +39,6 @@ test images
 
 do location_check.m
 
-
+result as:
+truth=5171 result=3919 TP=3901 FP=18 OM=1270
+TPR=0.995407 FPR=0.004593 OMR=0.245600 PR=0.754400
